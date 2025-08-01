@@ -1,6 +1,6 @@
-# JavaLibraryTemplate
+# ByteSequence
 
-JavaLibraryTemplate - шаблон java-библиотеки.
+ByteSequence - библиотека для удобной работы с последовательностью байтов.
 
 ## Добавление зависимости
 
@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Vladislav117:JavaLibraryTemplate:0.0.0'
+    implementation 'com.github.Vladislav117:ByteSequence:0.0.0'
 }
 ```
 
@@ -28,4 +28,6 @@ dependencies {
 
 ## Использование
 
-Для использования шаблона необходимо адаптировать его.
+```java
+// Будет добавлено позже.
+```
